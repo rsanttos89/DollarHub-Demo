@@ -75,4 +75,4 @@ Contributions to DollarHub are welcome! If you find any issues or have suggestio
 
 DollarHub is licensed under the MIT License.
 ******
-<img src="[https://raw.githubusercontent.com/rsanttos89/app_km/main/icons/Captura%20de%20tela%202023-12-28%20143732.png](https://raw.githubusercontent.com/rsanttos89/App-Financeiro/main/Captura%20de%20tela%202024-01-09%20101931.png)https://raw.githubusercontent.com/rsanttos89/App-Financeiro/main/Captura%20de%20tela%202024-01-09%20101931.png" alt="Imagem" width="600">
+<img src="https://github.com/rsanttos89/App-Financeiro/blob/main/Captura%20de%20tela%202024-01-09%20101931.png?raw=true" alt="Imagem" width="600">
