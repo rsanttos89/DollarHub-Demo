@@ -74,3 +74,5 @@ Contributions to DollarHub are welcome! If you find any issues or have suggestio
 ## License
 
 DollarHub is licensed under the MIT License.
+******
+<img src="https://raw.githubusercontent.com/rsanttos89/app_km/main/icons/Captura%20de%20tela%202023-12-28%20143732.png" alt="Imagem" width="600">
