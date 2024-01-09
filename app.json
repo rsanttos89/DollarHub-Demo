@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "dollarhub",
+    "slug": "dollarhub",
+    "scheme": "dollarhub",
+    "version": "0.0.3",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "575ea44a-5f52-4a53-a1fd-c31ca50f781d"
+      }
+    },
+    "android": {
+      "package": "com.rsanttos.dollarhub"
+    },
+    "ios": {
+      "bundleIdentifier": "com.rsanttos.dollarhub"
+    }
+  }
+}
